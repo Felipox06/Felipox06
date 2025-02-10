@@ -1,0 +1,16 @@
+<h1 align="center">👋 Olá, eu sou {Felipe Lima}</h1>
+
+<p align="center">
+  💻 Estudante de Ciência da Computação no Instituo Mauá de Tecnologia | 🌍 Reencarnação de Turing
+</p><br><br>
+
+
+## 🚀 Linguagens de Programação
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,c++,flutter)](https://skillicons.dev)<br><br>
+
+## 🛠️ Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=vscode,github)](https://skillicons.dev)<br><br>
+
+## 📫 Contato
+
+[![Gmail Badge](https://img.shields.io/badge/-{felipeaplima@uol.com.br}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{SeuEmail})
