@@ -5,8 +5,8 @@
 </p><br><br>
 
 
-## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,c++,flutter)](https://skillicons.dev)<br><br>
+## 🚀 Linguagens de Programação(em constante evolução)
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,c#,flutter)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=vscode,github)](https://skillicons.dev)<br><br>
