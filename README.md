@@ -1,7 +1,7 @@
-<h1 align="center">👋 Olá, esse é o ilustre perfil do Felipe Lima</h1>
+<h1 align="center">👋 Olá, esse é o perfil do Felipe Lima</h1>
 
 <p align="center">
-  💻 Estudante de Ciência da Computação no Instituo Mauá de Tecnologia | 🌍 Ciência
+  💻 Estudante de Matemática Aplicada no IME-USP | 🌍 Sempre aprendendo
 </p><br><br>
 
 
